@@ -1,6 +1,6 @@
 ## Projeto
 
-Este é um projeto desenvolvido durante a **[Next Level Week 4](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 22 a 28 de Fevereiro de 2021.
+Este é um projeto desenvolvido durante a **[Next Level Week 4](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 22 a 26 de Fevereiro de 2021.
 
 ## Layout
 
