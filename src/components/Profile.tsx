@@ -11,11 +11,10 @@ export function Profile() {
             <div>
                 <strong>Dayelle Souza</strong>
                 <p>
-                    <img src="icons/Level.svg" alt="Level" />
+                    <img src="icons/level.svg" alt="Level" />
                     Level {level}
-                    </p>
+                </p>
             </div>
         </div>
-
     );
 }
