@@ -6,8 +6,12 @@ Este é um projeto desenvolvido durante a **[Next Level Week 4](https://nextleve
 
 Você pode encontra o Layout no 
 </br>
-<a href="https://www.figma.com/file/UnPgRXKJulEvLAq3qkfRQX/Move.it-1.0" target="_blank"><img alt="Figma" 
+[1.0] <a href="https://www.figma.com/file/UnPgRXKJulEvLAq3qkfRQX/Move.it-1.0" target="_blank"><img alt="Figma" 
 src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
+</br>
+[2.0] <a href="https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0" target="_blank"><img alt="Figma" 
+src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
+
 
 ## Tecnologias
 
