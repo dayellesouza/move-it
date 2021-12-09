@@ -39,6 +39,10 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Executar o projeto em modo de desenvolvimento:
 `yarn dev` ou `npm run dev`
 
+## Hospedagem - (Status: on-line)
+
+- [Vercel](https://moveit-dayellesouza.vercel.app/)
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
